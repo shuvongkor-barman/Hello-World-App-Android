@@ -1,2 +1,4 @@
 # Hello-World-App-Android
-Simple Hello World App for Android
+Programmed by Kotlin Language
+Learned from https://pirple.thinkific.com
+Made by Shuvongkor
