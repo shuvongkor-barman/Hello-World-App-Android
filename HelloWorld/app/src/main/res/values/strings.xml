@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="myMsg">My First App</string>
+    <string name="blankMsg"></string>
+    <string name="copyright">Copyright @ Shuvongkor</string>
+    <string name="button">Click Me</string>
+</resources>
